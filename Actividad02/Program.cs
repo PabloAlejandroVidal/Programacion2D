@@ -19,8 +19,6 @@
                 Console.WriteLine($"El cuadrado de {numeroIngresado} es: {cuadradoDelNumeroIngresado}");
                 Console.WriteLine($"El cubo de {numeroIngresado} es: {cuboDelNumeroIngresado}");
             }
-
-
         }
     }
 }

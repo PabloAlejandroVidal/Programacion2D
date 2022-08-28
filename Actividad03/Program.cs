@@ -8,7 +8,6 @@
             int numeroIngresado;
 
             Console.WriteLine("Se mostraran los numeros primos hasta el numero ingresado");
-
             do
             {
                 Console.WriteLine("Ingresa numero o ingresa [salir] para finalizar");
@@ -30,10 +29,7 @@
                                 }
                                 break;
                             }
-                        }
-                        
-                        
-                        
+                        }                        
                     }
                 }
                 else
@@ -47,9 +43,7 @@
                         Console.WriteLine("Programa finalizado");
                     }
                 }
-
             } while (lineaIngresada != "salir");
-
         }
     }
 }

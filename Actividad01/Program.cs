@@ -43,7 +43,6 @@
             Console.WriteLine($"El valor minimo es {minValorIngresado}");
             Console.WriteLine($"El valor maximo es {maxValorIngresado}");
             Console.WriteLine($"El valor promedio es {promedioValorIngresado}");
-
         }
     }
 }
