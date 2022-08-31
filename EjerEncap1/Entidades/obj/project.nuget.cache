@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1l51SUXYeKmmIlSS4QSDtm3VfO8WfHRmsf9bjFDxKX2oympZ3XMyn1IWy/UjvQNX2br1Xl2Sce2gm54JkFczxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rolga\\Desktop\\EjerEncap1\\EjerEncap1\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rolga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rolga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rolga\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
